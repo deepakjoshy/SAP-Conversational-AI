@@ -1,5 +1,5 @@
 # SAP-Conversational-AI
-SAP Chat-Bot Repository 
+SAP Chatbot Repository 
 
 
 
